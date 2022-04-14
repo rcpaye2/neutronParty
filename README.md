@@ -5,5 +5,6 @@ The files are categorized as:
 `/src/` holds the source code of this research
 `/paper/` holds a draft of my researc paper
 `/scripts/` holds accessory scripts
+`/img/` holds images for my paper
 
 aint no party like a neutron party cuz a neutron party dont stop
